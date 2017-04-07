@@ -266,7 +266,7 @@ int main(int argc, const char * argv[]) {
     Edge Edges[MAX_EDGE];
     
     //input begin
-    FILE *fin = fopen("/Users/zhaochen/Desktop/huawei/input/case6.txt","rb");
+    FILE *fin = fopen("","rb");
     fscanf(fin,"%d%d%d",&numNode,&numEdge,&numConsumeNode);
     fscanf(fin,"%d",&costPerServer);
     
